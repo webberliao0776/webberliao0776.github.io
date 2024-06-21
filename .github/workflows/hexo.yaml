@@ -1,6 +1,6 @@
 # Sample workflow for building and deploying a Hexo site to GitHub Pages
 name: Deploy Hexo site to Pages
-default-branch: master
+
 on:
   # Runs on pushes targeting the default branch
   push:
